@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/harishaa-portfolio%20/static/css/main.72481668.css",
+    "main.js": "/harishaa-portfolio%20/static/js/main.f6e853d6.js",
+    "static/js/453.eebb8bdc.chunk.js": "/harishaa-portfolio%20/static/js/453.eebb8bdc.chunk.js",
+    "static/media/Harishaa_Profile.png": "/harishaa-portfolio%20/static/media/Harishaa_Profile.b081365da76c27fef45a.png",
+    "static/media/Logo-white.png": "/harishaa-portfolio%20/static/media/Logo-white.427f49a6ff6244557585.png",
+    "index.html": "/harishaa-portfolio%20/index.html",
+    "main.72481668.css.map": "/harishaa-portfolio%20/static/css/main.72481668.css.map",
+    "main.f6e853d6.js.map": "/harishaa-portfolio%20/static/js/main.f6e853d6.js.map",
+    "453.eebb8bdc.chunk.js.map": "/harishaa-portfolio%20/static/js/453.eebb8bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72481668.css",
+    "static/js/main.f6e853d6.js"
+  ]
+}
